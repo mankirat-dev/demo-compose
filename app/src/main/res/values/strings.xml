@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UTDB</string>
+    <string name="utdb">Utrakhand Tourism Development Board\n(Travel Trade)</string>
+    <string name="please_login_here">Please Login Here</string>
+    <string name="enter_hint">Enter %1$s</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="do_not_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
